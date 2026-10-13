@@ -1,0 +1,6 @@
+# Shaiprasath Photography
+User-agent: *
+Allow: /
+Disallow: /credits/
+
+Sitemap: https://www.shaiprasathphotography.com/sitemap.xml

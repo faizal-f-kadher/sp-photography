@@ -1,0 +1,16 @@
+{
+  "name": "Shaiprasath Photography",
+  "short_name": "Shaiprasath",
+  "description": "Wedding photographer in Coimbatore, Tamil Nadu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5ec",
+  "theme_color": "#1d1b18",
+  "icons": [
+    {
+      "src": "/public/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
